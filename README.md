@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amrudesh.1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TYgyb8HDg6TVdqyeqJ_i_1sY6--ANmzx/view?usp=sharing](https://drive.google.com/file/d/1TYgyb8HDg6TVdqyeqJ_i_1sY6--ANmzx/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1TYgyb8HDg6TVdqyeqJ_i_1sY6--ANmzx/view?usp=sharing)
 
 - ⚡ Fun fact **Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.**
 
