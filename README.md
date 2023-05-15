@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrudesh1" alt="amrudesh1" /></a> </p>
 
-- 🔭 I’m currently working on **Arthur - A Mobile Pentesting Framework**
+- 🔭 I’m currently working on **Arthur - A Mobile Pentesting Framework** and **MORF**
 
 - 🌱 I’m currently learning **Pentesting**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amrudesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amrudesh1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amrudesh.balakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrudesh.balakrishnan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amrudeshbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrudesh.balakrishnan" height="30" width="40" /></a>
 <a href="https://discord.gg/0552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0552" height="30" width="40" /></a>
 </p>
 
