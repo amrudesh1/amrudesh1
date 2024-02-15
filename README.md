@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Arthur - A Mobile Pentesting Framework** and **MORF**
 
-- 🌱 I’m currently learning **Pentesting**
+- 🌱 I’m currently learning **About life**
 
 - 👨‍💻 All of my projects are available at [github.com/amrudesh1](github.com/amrudesh1)
 
-- 💬 Ask me about **Android, Reverse Engineering, Security**
+- 💬 Ask me about **Android, Reverse Engineering, Security, VAPT, Product Security**
 
 - 📫 How to reach me **amrbal@gmail.com**
 
